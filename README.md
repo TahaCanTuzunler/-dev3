@@ -3,4 +3,4 @@
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz 4üncü repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ```
 ---
-(https://app.patika.dev/thcnt)[Patika Profilim]
+[Patika Profilim](https://app.patika.dev/thcnt)
